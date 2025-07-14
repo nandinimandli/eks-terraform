@@ -66,3 +66,10 @@ Replace <your-region> and <cluster-name> with your actual values.
 
 You can make region and name dynamic using input variables in variables.tf.
 
+🙌 Contribution
+Feel free to fork this repo, improve it, and submit PRs. Suggestions and improvements are welcome!
+
+🙏 Thank You
+Thank you for checking out this project!
+If it helped you learn something or saved your time, consider giving it a ⭐️ on GitHub.
+Happy Terraforming and EKS-ing! 🚀
