@@ -75,4 +75,4 @@ Feel free to fork this repo, improve it, and submit PRs. Suggestions and improve
 🙏 Thank You
 Thank you for checking out this project!
 If it helped you learn something or saved your time, consider giving it a ⭐️ on GitHub.
-Happy Terraforming and EKS-ing! 🚀
+Happy Terraforming and EKS-ing!. 🚀
