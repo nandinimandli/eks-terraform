@@ -13,15 +13,18 @@ It includes:
 ## 📁 Project Structure
 
 eks-terraform/
-├── backend/ # Creates S3 bucket and DynamoDB for state
+│
+├── backend/                 → Creates S3 bucket and DynamoDB for remote state
 ├── modules/
-│ ├── vpc/ # VPC, Subnets, NAT, IGW, Routing
-│ └── eks/ # EKS Cluster, IAM Roles, Node Group
-├── main.tf # Root module - invokes VPC and EKS
-├── variables.tf # Input variables
-├── outputs.tf # Outputs
-├── .gitignore
-└── README.md
+│   ├── vpc/                 → VPC, Subnets, NAT, IGW, Routing
+│   └── eks/                 → EKS Cluster, IAM Roles, Node Group
+│
+├── main.tf                 → Root module - invokes VPC and EKS
+├── variables.tf            → Input variables
+├── outputs.tf              → Output values
+├── .gitignore              → Git ignored files
+└── README.md               → Project overview and instructions
+
 
 
 ---
